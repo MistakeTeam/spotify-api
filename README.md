@@ -4,7 +4,7 @@ Esse é um wrapper para [Spotify Web API](https://developer.spotify.com/web-api/
 
 ## Características
 
-Atualmente são poucas as funcionalidades disponíveis no wrapper, veja os [planos futuros](#Planos futuros) para saber mais.
+Atualmente são poucas as funcionalidades disponíveis no wrapper, veja os planos futuros para saber mais.
 
 * Metadados de música trazem álbuns, artistas, faixas, recursos de áudio e análise de faixas, álbuns para um artista específico, principais faixas de um artista específico e artistas semelhantes a um artista específico
 * Perfis com tipo de produto, nome para exibição, data de nascimento, imagem
