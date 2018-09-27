@@ -55,7 +55,7 @@ class SpotifyAPI extends EventEmitter {
      * @returns {void}
      */
     setAccessToken(newToken) {
-        this.token = newToken;
+        this.options.token = newToken;
     }
 
     /**
@@ -63,7 +63,7 @@ class SpotifyAPI extends EventEmitter {
      * @returns {void}
      */
     setRefreshToken(newRefreshtoken) {
-        this.refreshtoken = newRefreshtoken;
+        this.options.refreshtoken = newRefreshtoken;
     }
 
     /**
