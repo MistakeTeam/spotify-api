@@ -1,6 +1,6 @@
 # Spotify API
 
-Esse é um wrapper para [Spotify Web API](https://developer.spotify.com/web-api/) através do fluxo do Código de Autorização (Autenticação somente de aplicativo) que é executado no Node.JS e no navegador, usando o [browserify](http://browserify.org/).
+Esse é um wrapper para [Spotify Web API](https://developer.spotify.com/web-api/) através do fluxo do Código de Autorização (Autenticação somente de aplicativo) que é executado no Node.JS.
 
 ## Características
 
@@ -33,4 +33,4 @@ var s = new SpotifyApi({
 });
 ```
 
-Aviso: `refreshCallback` serve para atualizar o token automaticamente quando se retorna o `erro 401`.
+Aviso: `refreshCallback` serve para atualizar o token automaticamente quando se retorna o `erro 401`, então lembre-se de executar um ponto pra `refreshtoken` usando um web framework, recomendo usar [express](https://github.com/expressjs/express)
