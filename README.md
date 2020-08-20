@@ -1,7 +1,7 @@
 # Spotify API (Obsoleto)
 
 
-### Este codigo se encontra desatualizado e fora de forma, um rework será lançado em algum momento no futuro.
+### AVISO: Este codigo se encontra desatualizado e fora de forma, um rework será lançado em algum momento no futuro.
 
 
 Esse é um wrapper para [Spotify Web API](https://developer.spotify.com/web-api/) através do fluxo do Código de Autorização (Autenticação somente de aplicativo) que é executado no Node.JS.
