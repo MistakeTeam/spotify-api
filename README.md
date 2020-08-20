@@ -1,4 +1,4 @@
-# Spotify API
+# Spotify API (Obssoleto)
 
 Esse é um wrapper para [Spotify Web API](https://developer.spotify.com/web-api/) através do fluxo do Código de Autorização (Autenticação somente de aplicativo) que é executado no Node.JS.
 
